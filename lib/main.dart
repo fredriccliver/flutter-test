@@ -7,6 +7,7 @@ import 'package:flutter/services.dart';
 // integrate with firebase
 // find a detail of Github Actions.
 // how make a ipa and publish to ios tester with CI as automatically.
+// try to apply silver- layout
 
 void main() {
   SystemChrome.setPreferredOrientations(
