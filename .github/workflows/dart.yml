@@ -1,4 +1,4 @@
-name: Dart CI
+
 
 on: push
 name: build and test app
